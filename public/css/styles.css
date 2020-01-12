@@ -54,3 +54,11 @@ button {
   color: white;
   padding: 8px;
 }
+
+.location-button {
+  cursor: pointer;
+  border: 1px solid #3949ab;
+  background: #3949ab;
+  color: white;
+  padding: 8px;
+}
